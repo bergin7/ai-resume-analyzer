@@ -53,7 +53,7 @@ async function analyzeResume() {
 
         const response = await fetch(
 
-            "https://ai-resume-analyzer-okwx.onrender.com",
+            "https://ai-resume-analyzer-okwx.onrender.com/analyze",
 
             {
 
